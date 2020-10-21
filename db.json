@@ -153,13 +153,14 @@
     "pkn": [
       {
         "id": 1,
-        "namaFile": "Ini nama file 1",
-        "link": null
+        "namaFile": "Modul pancasila & kewarganegaraan",
+        "materi:" "Pokoknya banyak lah.",
+        "link": "https://drive.google.com/file/d/15dndwWvPkPqRRg1m8dwDdXdjabWa7bf9/view?usp=sharing"
       },
       {
         "id": 2,
-        "namaFile": "Ini nama file 2",
-        "link": null
+        "namaFile": "RPS TI Pancasila & kewarganegaraan",
+        "link": "https://drive.google.com/file/d/1VZ9wenAco9FVNSDGTaG-rlr8hJspmXpe/view?usp=sharing"
       }
     ],
     "inggris": [
