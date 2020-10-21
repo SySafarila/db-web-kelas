@@ -118,13 +118,15 @@
     "logikaInformatika": [
       {
         "id": 1,
-        "namaFile": "Ini nama file 1",
-        "link": "https://google.com"
+        "namaFile": "Pertemuan 1",
+        "materi": "Pengenalan logika, pengenalan argumen, pengantar logika proporsional, tabel kebenaran, proposisi majemuk, tautologi, resolusi, logika predikat, komponen-komponen sintatik.",
+        "link": "https://drive.google.com/file/d/1mqjry63Ds911f638AxIdGm0Op6ppn_ee/view?usp=sharing"
       },
       {
         "id": 2,
         "namaFile": "Ini nama file 2",
-        "link": "https://microsoft.com"
+        "materi": "Logika matematika untuk komputer, argumen, contoh pernyataan arguman, validasi argumen, contoh pernyataan validitas argumen.",
+        "link": "https://drive.google.com/file/d/1B44tM9KaNkNdBMHPxcDiGq4bEwP-qsGR/view?usp=sharing"
       }
     ],
     "sistemDigital": [
