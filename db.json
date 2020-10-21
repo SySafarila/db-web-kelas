@@ -170,13 +170,21 @@
     "inggris": [
       {
         "id": 1,
-        "namaFile": "Ini nama file 1",
-        "link": null
+        "namaFile": "Introduce my self",
+        "materi": null,
+        "link": "https://drive.google.com/file/d/1KUokbS3413UuG_j9DcTT4gnsCbZIPiJ9/view?usp=sharing"
       },
       {
         "id": 2,
-        "namaFile": "Ini nama file 2",
-        "link": null
+        "namaFile": "Mengenal kalimat nominal & verbal",
+        "materi": "Kalimat nominal, v=kalimat verbal & exercises.",
+        "link": "https://drive.google.com/file/d/1cXX0yzW_KVb2c3onr0xgQizB8Y7jLBDm/view?usp=sharing"
+      },
+      {
+        "id": 3,
+        "namaFile": "Simple sentences",
+        "materi": "Bagian kalimat sederhana, contoh kalimat sederhana & penjelasan.",
+        "link": "https://drive.google.com/file/d/1U7fOQAjf3lP0bWF0SHxud1KdI9z3Ntxq/view?usp=sharing"
       }
     ],
     "fisika": [
