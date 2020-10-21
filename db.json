@@ -99,11 +99,6 @@
         "id": 1,
         "mataKuliah": "kalkulus 1",
         "deadLine": "24 Oktober 2020"
-      },
-      {
-        "id": 2,
-        "mataKuliah": "fisika 1",
-        "deadLine": "24 Oktober 2020"
       }
     ],
     "nonActive": [
