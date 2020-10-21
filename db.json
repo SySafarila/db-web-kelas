@@ -1,6 +1,4 @@
 {
-  "name": "Web Kelas",
-  "description": "Kelas Informatika Semester 1",
   "mataKuliah": {
     "senin": {
       "pelajaran": [
