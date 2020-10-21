@@ -132,13 +132,15 @@
     "sistemDigital": [
       {
         "id": 1,
-        "namaFile": "Ini nama file 1",
-        "link": "https://google.com"
+        "namaFile": "Digital vs Analog",
+        "materi": "Pengantar sistem digital, perbedaan sinyal analog digital, mengapa harus digital ? kelebihan sistem digital.",
+        "link": "https://drive.google.com/file/d/1bnf38bftRyMm8jYcWZ-0ir9yWwUXfGXq/view?usp=sharing"
       },
       {
         "id": 2,
-        "namaFile": "Ini nama file 2",
-        "link": "https://microsoft.com"
+        "namaFile": "Pertemuan 1 Sistem Digital",
+        "materi": "Representasi numerik, representasi analog, representasi digital, contoh-contoh, sistem digital, definisi sistem digital, rangkaian elektronika, rangkaian digital, perbedaan antara rangkaian digital dengan sistem digital, representasi besaran digital, kelebihan sistem digital, keuntungan sistem digital vs sistem analog, bentuk gelombang sinyal digital, perbedaan isyarat analog dan isyarat digital.",
+        "link": "https://drive.google.com/file/d/1phsVkJ3OA1eVS61w886ad7ANT_Ubs2qr/view?usp=sharing"
       }
     ],
     "kalkulus": [
