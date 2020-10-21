@@ -190,13 +190,25 @@
     "fisika": [
       {
         "id": 1,
-        "namaFile": "Ini nama file 1",
-        "link": null
+        "namaFile": "Berat dan satuan SI",
+        "materi": "Awalan pada satuan SI, faktor konversi ke satuan SI & tetapan fisis.",
+        "link": "https://drive.google.com/file/d/1EDILl7TiEIYSf6NzXeKaKMctC9Vzolb0/view?usp=sharing"
       },
       {
         "id": 2,
-        "namaFile": "Ini nama file 2",
-        "link": null
+        "namaFile": "Kinematika benda titik 1",
+        "link": "https://drive.google.com/file/d/1YVp4CsaFOZ9FkYYJPGr2fgkQWbPtK95b/view?usp=sharing"
+      },
+      {
+        "id": 3,
+        "namaFile": "Kinematika benda titik 2",
+        "link": "https://drive.google.com/file/d/1IChd8k7cyeEFyCx6L-XGIaDAZuh-1Ia9/view?usp=sharing"
+      },
+      {
+        "id": 4,
+        "namaFile": "Hukum kekekalan & momentum",
+        "materi": "Momentum linear, hukum kekekalan momentum linear, tumbukan dan ledakan, koefisien restitusi, pusat masa & latihan",
+        "link": "https://drive.google.com/file/d/10YCou4rq-AZwJwPSZYWVEICWrGZWDCjv/view?usp=sharing"
       }
     ],
     "pengantarInformatika": [
