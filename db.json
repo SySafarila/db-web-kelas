@@ -1,0 +1,222 @@
+{
+  "name": "Web Kelas",
+  "description": "Kelas Informatika Semester 1",
+  "mataKuliah": {
+    "senin": {
+      "pelajaran": [
+        {
+          "id": 1,
+          "nama": "Logika Informatika",
+          "dosen": "Lia Saniah M. Pd.",
+          "sks": 3,
+          "waktu": {
+            "start": "10:30",
+            "end": "13:00"
+          }
+        },
+        {
+          "id": 2,
+          "nama": "Algoritma & Pemrograman",
+          "dosen": "Asep Deden Rahmat S, ST. M, Kom.",
+          "sks": 3,
+          "waktu": {
+            "start": "13:00",
+            "end": "15:30"
+          }
+        }
+      ]
+    },
+    "selasa": {
+      "pelajaran": [
+        {
+          "id": 3,
+          "nama": "Pengantar Informatika",
+          "dosen": "Eva Susilawati, S. Kom, MM.",
+          "sks": 2,
+          "waktu": {
+            "start": "8:00",
+            "end": "9:40"
+          }
+        },
+        {
+          "id": 4,
+          "nama": "Fisika Dasar 1",
+          "dosen": "Indra Rusdiawan, ST, MM.",
+          "sks": 3,
+          "waktu": {
+            "start": "10:30",
+            "end": "13:00"
+          }
+        },
+        {
+          "id": 5,
+          "nama": "Bahasa Inggris 1",
+          "dosen": "Yusup Supyani, M. Hum.",
+          "sks": 2,
+          "waktu": {
+            "start": "13:00",
+            "end": "14:40"
+          }
+        }
+      ]
+    },
+    "kamis": {
+      "pelajaran": [
+        {
+          "id": 6,
+          "nama": "Pancasila & Kewarganegaraan",
+          "dosen": "Karnaen, MH.",
+          "sks": 2,
+          "waktu": {
+            "start": "18:00",
+            "end": "Selesai"
+          }
+        },
+        {
+          "id": 7,
+          "nama": "Kalkulus 1",
+          "dosen": "Achmad Rifai.",
+          "sks": 3,
+          "waktu": {
+            "start": "10:30",
+            "end": "13:00"
+          }
+        },
+        {
+          "id": 8,
+          "nama": "Sistem Digita",
+          "dosen": "Iska Asri Agustin, M. Kom.",
+          "sks": 2,
+          "waktu": {
+            "start": "13:00",
+            "end": "14:40"
+          }
+        }
+      ]
+    }
+  },
+  "tugas": {
+    "active": [
+      {
+        "id": 1,
+        "mataKuliah": "kalkulus 1",
+        "deadLine": "24 Oktober 2020"
+      },
+      {
+        "id": 2,
+        "mataKuliah": "fisika 1",
+        "deadLine": "24 Oktober 2020"
+      }
+    ],
+    "nonActive": [
+      {
+        "id": 1,
+        "mataKuliah": "Simdig",
+        "deadLine": "23 Oktober 2020"
+      },
+      {
+        "id": 2,
+        "mataKuliah": "Logika Informatika",
+        "deadLine": "23 Oktober 2020"
+      }
+    ]
+  },
+  "perpustakaan": {
+    "Logika Informatika": [
+      {
+        "id": 1,
+        "namaFile": "Ini nama file 1",
+        "link": "https://google.com"
+      },
+      {
+        "id": 2,
+        "namaFile": "Ini nama file 2",
+        "link": "https://microsoft.com"
+      }
+    ],
+    "Sistem Digital": [
+      {
+        "id": 1,
+        "namaFile": "Ini nama file 1",
+        "link": "https://google.com"
+      },
+      {
+        "id": 2,
+        "namaFile": "Ini nama file 2",
+        "link": "https://microsoft.com"
+      }
+    ],
+    "Kalkulus 1": [
+      {
+        "id": 1,
+        "namaFile": "Ini nama file 1",
+        "link": "https://google.com"
+      },
+      {
+        "id": 2,
+        "namaFile": "Ini nama file 2",
+        "link": "https://microsoft.com"
+      }
+    ],
+    "Pancasila & Kewarganegaraan": [
+      {
+        "id": 1,
+        "namaFile": "Ini nama file 1",
+        "link": "https://google.com"
+      },
+      {
+        "id": 2,
+        "namaFile": "Ini nama file 2",
+        "link": "https://microsoft.com"
+      }
+    ],
+    "Bahasa Inggris 1": [
+      {
+        "id": 1,
+        "namaFile": "Ini nama file 1",
+        "link": "https://google.com"
+      },
+      {
+        "id": 2,
+        "namaFile": "Ini nama file 2",
+        "link": "https://microsoft.com"
+      }
+    ],
+    "Fisika Dasar 1": [
+      {
+        "id": 1,
+        "namaFile": "Ini nama file 1",
+        "link": "https://google.com"
+      },
+      {
+        "id": 2,
+        "namaFile": "Ini nama file 2",
+        "link": "https://microsoft.com"
+      }
+    ],
+    "Pengantar Informatika": [
+      {
+        "id": 1,
+        "namaFile": "Ini nama file 1",
+        "link": "https://google.com"
+      },
+      {
+        "id": 2,
+        "namaFile": "Ini nama file 2",
+        "link": "https://microsoft.com"
+      }
+    ],
+    "Algoritma & Pemrograman": [
+      {
+        "id": 1,
+        "namaFile": "Ini nama file 1",
+        "link": "https://google.com"
+      },
+      {
+        "id": 2,
+        "namaFile": "Ini nama file 2",
+        "link": "https://microsoft.com"
+      }
+    ]
+  }
+}
