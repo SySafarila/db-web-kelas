@@ -115,7 +115,7 @@
     ]
   },
   "perpustakaan": {
-    "Logika Informatika": [
+    "logikaInformatika": [
       {
         "id": 1,
         "namaFile": "Ini nama file 1",
@@ -127,7 +127,7 @@
         "link": "https://microsoft.com"
       }
     ],
-    "Sistem Digital": [
+    "sistemDigital": [
       {
         "id": 1,
         "namaFile": "Ini nama file 1",
@@ -139,7 +139,7 @@
         "link": "https://microsoft.com"
       }
     ],
-    "Kalkulus 1": [
+    "kalkulus": [
       {
         "id": 1,
         "namaFile": "Ini nama file 1",
@@ -151,7 +151,7 @@
         "link": "https://microsoft.com"
       }
     ],
-    "Pancasila & Kewarganegaraan": [
+    "pkn": [
       {
         "id": 1,
         "namaFile": "Ini nama file 1",
@@ -163,7 +163,7 @@
         "link": "https://microsoft.com"
       }
     ],
-    "Bahasa Inggris 1": [
+    "inggris": [
       {
         "id": 1,
         "namaFile": "Ini nama file 1",
@@ -175,7 +175,7 @@
         "link": "https://microsoft.com"
       }
     ],
-    "Fisika Dasar 1": [
+    "fisika": [
       {
         "id": 1,
         "namaFile": "Ini nama file 1",
@@ -187,7 +187,7 @@
         "link": "https://microsoft.com"
       }
     ],
-    "Pengantar Informatika": [
+    "pengantarInformatika": [
       {
         "id": 1,
         "namaFile": "Ini nama file 1",
@@ -199,7 +199,7 @@
         "link": "https://microsoft.com"
       }
     ],
-    "Algoritma & Pemrograman": [
+    "algoritma": [
       {
         "id": 1,
         "namaFile": "Ini nama file 1",
