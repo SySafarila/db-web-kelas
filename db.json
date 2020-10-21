@@ -147,72 +147,72 @@
       {
         "id": 1,
         "namaFile": "Ini nama file 1",
-        "link": "https://google.com"
+        "link": null
       },
       {
         "id": 2,
         "namaFile": "Ini nama file 2",
-        "link": "https://microsoft.com"
+        "link": null
       }
     ],
     "pkn": [
       {
         "id": 1,
         "namaFile": "Ini nama file 1",
-        "link": "https://google.com"
+        "link": null
       },
       {
         "id": 2,
         "namaFile": "Ini nama file 2",
-        "link": "https://microsoft.com"
+        "link": null
       }
     ],
     "inggris": [
       {
         "id": 1,
         "namaFile": "Ini nama file 1",
-        "link": "https://google.com"
+        "link": null
       },
       {
         "id": 2,
         "namaFile": "Ini nama file 2",
-        "link": "https://microsoft.com"
+        "link": null
       }
     ],
     "fisika": [
       {
         "id": 1,
         "namaFile": "Ini nama file 1",
-        "link": "https://google.com"
+        "link": null
       },
       {
         "id": 2,
         "namaFile": "Ini nama file 2",
-        "link": "https://microsoft.com"
+        "link": null
       }
     ],
     "pengantarInformatika": [
       {
         "id": 1,
         "namaFile": "Ini nama file 1",
-        "link": "https://google.com"
+        "link": null
       },
       {
         "id": 2,
         "namaFile": "Ini nama file 2",
-        "link": "https://microsoft.com"
+        "link": null
       }
     ],
     "algoritma": [
       {
         "id": 1,
         "namaFile": "Ini nama file 1",
-        "link": "https://google.com"
+        "link": null
       },
       {
         "id": 2,
         "namaFile": "Ini nama file 2",
-        "link": "https://microsoft.com"
+        "link": null
       }
     ]
   }
