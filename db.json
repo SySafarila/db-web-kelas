@@ -210,13 +210,23 @@
     "pengantarInformatika": [
       {
         "id": 1,
-        "namaFile": "Ini nama file 1",
-        "link": null
+        "namaFile": "Pertemuan 1",
+        "link": "https://drive.google.com/file/d/1d9xozDAPChIHmZRT1tnU3y_BdAoYLh3r/view?usp=sharing"
       },
       {
         "id": 2,
-        "namaFile": "Ini nama file 2",
-        "link": null
+        "namaFile": "Pertemuan 2",
+        "link": "https://drive.google.com/file/d/1-Khz6aRf8qkXShA42CTR_lOI8SeCJsIy/view?usp=sharing"
+      },
+      {
+        "id": 3,
+        "namaFile": "Pertemuan 3",
+        "link": "https://drive.google.com/file/d/13vBym00e11HaY_BpE4om0onKbf8hAou9/view?usp=sharing"
+      },
+      {
+        "id": 4,
+        "namaFile": "Pertemuan 4",
+        "link": "https://drive.google.com/file/d/1ln20fE5tVonkLMVWf_69XBljDrM1vw5I/view?usp=sharing"
       }
     ],
     "algoritma": [
